@@ -16,11 +16,11 @@ Node.js 14.17.6
 }
 ```
 
-### How to Get VerificationToken
+### How to Get Bot Token
 
-슬랙 앱 세팅 `Basic Information` 페이지에 `Verification Token` 값이 필요하다
+슬랙 앱 세팅 `OAuth & Permissions` 페이지에 `Bot User OAuth Token` 값이 필요하다
 
-https://api.slack.com/apps/[APP-ID]/general?
+https://api.slack.com/apps/[APP-ID]/oauth?
 
 
 ## Reference

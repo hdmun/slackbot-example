@@ -103,3 +103,4 @@ tests/cases/user/prettier/prettier
 # project
 
 ngrok*.exe*
+/dist

@@ -30,3 +30,5 @@ https://api.slack.com/events/message
 
 https://iot624.tistory.com/137
 https://backend-intro.vlpt.us/1/
+https://blog.gangnamunni.com/post/typescript-slack-bot/
+

@@ -10,7 +10,7 @@ const router = new Router()
 const port: number = 3000;
 
 app.use(bodyParser())
-router.use('/api', controller.routes())
+router.use(controller.routes())
 app.use(router.routes()).use(router.allowedMethods())
 
 app.listen(port, ()=> {
